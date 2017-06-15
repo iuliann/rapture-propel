@@ -3,7 +3,7 @@
 [![PhpVersion](https://img.shields.io/badge/php-5.4.0-orange.svg?style=flat-square)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](#)
 
-Basic extensions to PropelORM.
+Helpers to PropelORM 2.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ Basic extensions to PropelORM.
 ## Install
 
 ```
-composer install iuliann/rapture-propel
+composer require iuliann/rapture-propel
 ```
 
 ## About
