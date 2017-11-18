@@ -13,7 +13,7 @@ Helpers to PropelORM 2.
 ## Install
 
 ```
-composer require iuliann/rapture-propel
+composer require mrjulio/rapture-propel
 ```
 
 ## About
